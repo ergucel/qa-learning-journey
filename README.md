@@ -1,7 +1,5 @@
 # qa-learning-journey
 
-# Manual QA Practice
-
 Hi 👋  
 I’m currently learning Manual QA testing and building my skills step by step.
 
